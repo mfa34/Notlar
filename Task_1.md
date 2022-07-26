@@ -47,7 +47,7 @@ kaynak_2: https://en.wikipedia.org/wiki/File_Transfer_Protocol
 kaynak_3:https://www.milleni.com.tr/blog/teknoloji/ftp-nedir
 
 <p align="center">
-  <img src="image_task_1/STATIK_WEB_SITESI1.png" width="550" title="statik web sitesi semasi">
+  <img src="STATIK_WEB_SITESI1.png" width="550" title="statik web sitesi semasi">
 
 ### Dinamik Web Siteleri
 
@@ -62,4 +62,4 @@ Bu application server database ile gerekli konusmalari saglamak icin yola cikar 
 Database e ulastiktan sonra data base de gerekli sorgu islemi tamamlanip bir sonuc cikar bu sonucu application server isler ve web server a gerekli sayfayi ulastirir. Ulastirdigi bu sayfayi web server , web clientina iletir ve sayfa karsimiza cikar.
 
 <p align="center">
-  <img src="image_task_1/DINAMIK_WEB_SITESI1.png" width="550" title="dinamik web sitesi semasi">
+  <img src="DINAMIK_WEB_SITESI1.png" width="550" title="dinamik web sitesi semasi">
